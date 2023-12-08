@@ -1,4 +1,4 @@
-# <div>👋 Hi, I'am Sisu</div>
+# <div class="text-center">👋 Hi, I'am Sisu</div>
 
 🌱 Learning Never Stops 🚀
 
