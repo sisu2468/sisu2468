@@ -1,36 +1,34 @@
 <p align="center">
   <a href="https://github.com/sisu2468">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=1500&color=AAAAAA&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+-+Stack+Developer;AI+Solutions+Architect;Innovating+Healthcare+with+Technology;Web+/+Logo+Designer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=1500&color=AAAAAA&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+-+Stack+Developer;AI+Solutions+Architect;Innovating+Healthcare+with+Technology;Web+/+Logo+Designer" alt="Typing SVG">
   </a>
 </p>
 
-
 <div align="center">
-  <img src="https://amateur0911.vercel.app/api?username=sisu2468&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=nightowl" height="150" alt="sisu2468 Github Stats">
-  <img src="https://amateur0911.vercel.app/api/top-langs/?username=sisu2468&layout=compact&show_icons=true&line_height=30&theme=nightowl" height="150" alt="sisu2468 Top Languages"/>
 
-  <img src="https://github-profile-trophy.vercel.app?username=sisu2468&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="sisu2468 graph"  />
- <div>
-   
-  <img 
-  src="https://amateur0913.vercel.app/api/cards/repos-per-language?username=sisu2468&theme=nightowl&include_all_commits=true&show_icons=true&line_height=30&count_private=true" 
-  height="150" 
-  alt="sisu2468's Repos Per Language" 
-  style="border: 2px solid #AAAAAA; border-radius: 8px;"
-  />
-  <img 
-  src="https://amateur0913.vercel.app/api/cards/most-commit-language?username=sisu2468&theme=nightowl&show_icons=true&line_height=30&include_all_commits=true&count_private=true" 
-  height="150" 
-  alt="sisu2468's Most Committed Language" 
-  style="border: 2px solid #AAAAAA; border-radius: 8px;"
-  />
-  <img src="https://amateur0913.vercel.app/api/cards/productive-time?username=sisu2468&theme=nightowl&show_icons=true&line_height=30&include_all_commits=true&count_private=true&utcOffset=9" height="150" alt="sisu2468's GitHub Stats Graph" 
-  style="border: 2px solid #AAAAAA; border-radius: 8px;"/>
- </div>
+  <!-- Row 1: stats + top languages -->
+  <!-- count_private / include_all_commits removed from the stats card: they trigger the
+       "Resource not accessible by personal access token" error with limited tokens. -->
+  <img src="https://amateur0911.vercel.app/api?username=sisu2468&show_icons=true&line_height=30&theme=nightowl" height="150" alt="sisu2468 Github Stats">
+  <img src="https://amateur0911.vercel.app/api/top-langs/?username=sisu2468&layout=compact&show_icons=true&line_height=30&theme=nightowl" height="150" alt="sisu2468 Top Languages">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisu2468&show_icons=true&line_height=30&include_all_commits=true&count_private=true&radius=8&theme=nightowl" height="300" alt="sisu2468 activity-graph" />
+  <!-- Row 2: trophies -->
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=sisu2468&column=9&row=2&margin-w=15&padding=10&theme=algolia" alt="sisu2468 trophies">
 
-  <img src="https://amateur0913.vercel.app/api/cards/profile-details?username=sisu2468&theme=nightowl&show_icons=true&line_height=30&include_all_commits=true&count_private=true"  alt="sisu2468's GitHub Stats Graph" style="border: 1px solid #AAAAAA; border-radius: 8px;"/>
+  <!-- Row 3: language cards -->
+  <br>
+  <img src="https://amateur0913.vercel.app/api/cards/repos-per-language?username=sisu2468&theme=nightowl&include_all_commits=true&count_private=true" height="150" alt="sisu2468's Repos Per Language">
+  <img src="https://amateur0913.vercel.app/api/cards/most-commit-language?username=sisu2468&theme=nightowl&include_all_commits=true&count_private=true" height="150" alt="sisu2468's Most Committed Language">
+  <img src="https://amateur0913.vercel.app/api/cards/productive-time?username=sisu2468&theme=nightowl&include_all_commits=true&count_private=true&utcOffset=9" height="150" alt="sisu2468's Productive Time">
+
+  <!-- Row 4: activity graph (uses its own theme names, not nightowl) -->
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisu2468&theme=github-dark&hide_border=true&radius=8" alt="sisu2468 activity graph">
+
+  <!-- Row 5: profile details -->
+  <br>
+  <img src="https://amateur0913.vercel.app/api/cards/profile-details?username=sisu2468&theme=nightowl&include_all_commits=true&count_private=true" alt="sisu2468's Profile Details">
 
 </div>
 
@@ -38,7 +36,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <table align="center" style="background-color:#0A0A0A;">
-  
+
   <tr><th colspan="8" align="center" style="color:white;">Programming Languages</th></tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js"><p> JavaScript</p></td>
@@ -134,6 +132,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase"><p> Supabase</p></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=oracle"><p> Oracle</p></td>
   </tr>
-</table>-->
-
+</table>
 </p>
+-->
