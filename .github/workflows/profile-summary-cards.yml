@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           # Public activity works with the built-in token.
           # For private repos/commits, create a classic PAT (scopes: repo, read:user),
