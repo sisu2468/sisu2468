@@ -1,0 +1,26 @@
+name: Generate Profile Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # every day at 00:00 UTC
+  workflow_dispatch:         # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release/v2
+        env:
+          # Public activity works with the built-in token.
+          # For private repos/commits, create a classic PAT (scopes: repo, read:user),
+          # save it as a repo secret named PROFILE_PAT, and use it instead:
+          # GITHUB_TOKEN: ${{ secrets.PROFILE_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 9
