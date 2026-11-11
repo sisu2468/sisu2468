@@ -12,12 +12,12 @@
 
 <div align="center">
 
-  <img src="./profile-summary-card-output/nightowl/0-profile-details.svg" alt="sisu2468 profile details">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="sisu2468 profile details">
   <br>
-  <img src="./profile-summary-card-output/nightowl/3-stats.svg" height="150" alt="sisu2468 GitHub stats">
-  <img src="./profile-summary-card-output/nightowl/1-repos-per-language.svg" height="150" alt="Repos per language">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="150" alt="sisu2468 GitHub stats">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="150" alt="Repos per language">
   <br>
-  <img src="./profile-summary-card-output/nightowl/2-most-commit-language.svg" height="150" alt="Most committed language">
-  <img src="./profile-summary-card-output/nightowl/4-productive-time.svg" height="150" alt="Productive time">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="150" alt="Most committed language">
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="150" alt="Productive time">
 
 </div>
